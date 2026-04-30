@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <h3>🚀 Full-Stack Developer | Next.js & TypeScript Architect | Local AI Explorer</h3>
+  <h3>🚀 [PLAYER: Hiroshi002] | Level 99 | Action RPG Tech Stack</h3>
 
   <p align="center">
     <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
@@ -18,12 +18,12 @@
 
 ---
 
-## ⚡ Technical Capability & Workflow
+## ⚡ Technical Capability & Skills
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>💻 Web Development</h3>
+      <h3>💻 Full-Stack Development</h3>
       <ul>
         <li><b>Frontend:</b> Master of Next.js & React ecosystem</li>
         <li><b>Logic:</b> Type-safe development with TypeScript</li>
@@ -47,8 +47,8 @@
 ## 🖥️ The Performance Station (Hardware)
 <div align="left">
   <p>
-    <b>CPU:</b> Intel Core i5-12400F (Optimized Power Management)<br>
-    <b>Motherboard:</b> ASRock B760M Pro RS<br>
+    <b>CPU:</b> AMD RYZEN 9 9950X3D (Optimized Power Management)<br>
+    <b>Motherboard:</b> ASRock X870E Taichi White <br>
     <b>GPU Tuning:</b> Custom Undervolted Profiles for Maximum Efficiency
   </p>
 </div>
@@ -81,7 +81,7 @@
 
 ## 📫 Let's Connect & Collaborate
 <div align="center">
-  <a href="mailto: krmamusicnightcore@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Hiroshi002&color=blue&style=for-the-badge&label=PROFILE+VIEWS" alt="Views" />
 </div>
